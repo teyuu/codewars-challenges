@@ -6,14 +6,11 @@
 <br>
 
 <h2>About</h2>
-<p>A repository filled with codewars challenges (kata). Completed over 200+ challenges and Push 5 solutions every week.</p>
+<p>A repository filled with codewars challenges (kata)</p>
 
 <br>
   
 <h2 align='center'>Techs used</h2>
-<div align='center'>
-<img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/JavaScript.svg' width='10%'>
-</div>
 
 <br>
 
